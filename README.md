@@ -2,7 +2,7 @@
 
 I'm a software engineering graduate and I still want to pursue this field.  
 
-I am an enthusiast when it comes to technology and software. I like to work on systems design and web development. I also have a keen interest in Artifical Intelligence and Data Analysis.  
+I am an enthusiast when it comes to technology and software. I like to work on systems design and web development. I also have a keen interest in Artificial Intelligence and Data Analysis.  
 
 - 🔭 I’m currently working on software data analysis.
 - 🌱 I'm looking into possibilities of integrating machine learning and software analysis.
