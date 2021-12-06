@@ -1,20 +1,14 @@
-### Hi there 👋, I'm Saleh, Welcome to my condo !!!
+### Hi there 👋, I'm Saleh, Welcome to my condo !!!  
 
-</br>
-I'm a software engineering graduate and I still want to pursue this field.
+I'm a software engineering graduate and I still want to pursue this field.  
 
-</br>
-I am an enthusiast when it comes to technology and software. I like to work on systems design and web development. I also have a keen interest in Artifical Intelligence and Data Analysis.
-
-</br>
+I am an enthusiast when it comes to technology and software. I like to work on systems design and web development. I also have a keen interest in Artifical Intelligence and Data Analysis.  
 
 - 🔭 I’m currently working on software data analysis.
 - 🌱 I'm looking into possibilities of integrating machine learning and software analysis.
 - 👯 I'd like to work with people on formal methods to design software.
 - 💬 Please do leave comments here in my repos and ask any questions there.
 - ⚡ Fun fact: I'm a gamer, I like to sketch anime & I also play the guitar. We've gotta experience everything in life, my friend 😆.
-
-</br>
 
 ### A portion of the platforms I have experience working with:
 
