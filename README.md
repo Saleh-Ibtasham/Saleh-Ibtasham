@@ -16,7 +16,7 @@ I am an enthusiast when it comes to technology and software. I like to work on s
 
 </br>
 
-### A portion of platforms I have experience working with:
+### A portion of the platforms I have experience working with:
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
