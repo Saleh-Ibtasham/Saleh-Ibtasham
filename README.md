@@ -12,6 +12,7 @@ I am an enthusiast when it comes to technology and software. I like to work on s
 - 🌱 I'm looking into possibilities of integrating machine learning and software analysis.
 - 👯 I'd like to work with people on formal methods to design software.
 - 💬 Please do leave comments here in my repos and ask any questions there.
+- ⚡ Fun fact: I'm a gamer, I like to sketch anime & I also play the guitar. We've gotta experience everything in life, my friend 😆.
 
 </br>
 
